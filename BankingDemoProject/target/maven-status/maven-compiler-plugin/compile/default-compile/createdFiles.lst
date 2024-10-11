@@ -1,0 +1,10 @@
+com\example\BankingDemoProject\aspect\LoggingAspect.class
+com\example\BankingDemoProject\BankingDemoProjectApplication.class
+com\example\BankingDemoProject\controller\BankingProjectController.class
+com\example\BankingDemoProject\model\Users.class
+com\example\BankingDemoProject\customModel\ExternalApiModel.class
+com\example\BankingDemoProject\responseEntity\ResponseEntityClass.class
+com\example\BankingDemoProject\model\Account.class
+com\example\BankingDemoProject\repository\UsersRepository.class
+com\example\BankingDemoProject\repository\AccountRepository.class
+com\example\BankingDemoProject\service\BankingProjectService.class
